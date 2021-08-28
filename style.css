@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.formulario{
+    margin-top: 50px;
+    width: 90%;
+    height: 50%;
+}
+.container h1 {
+    padding-top: 60px;
+    text-align: center;
+    
+}
